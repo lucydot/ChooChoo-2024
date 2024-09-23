@@ -1,13 +1,13 @@
 # Key settings (must edit)
-project_title: repository title
-project_repo: username/repo-name
+project_title: Python basics
+project_repo: lucydot/ChooChoo-2024
 admins:
-- your_handle_here
+- lucydot
 instructors:
-- your_handle_here
+- lucydot
 students:
-- your_handle_here
-web_address: https://username.github.io/repo-name
+- 
+web_address: https://lucydot.github.io/ChooChoo-2024
 
 # User options (may edit)
 questions: true
