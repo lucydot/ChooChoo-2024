@@ -1,13 +1,13 @@
 # Key settings (must edit)
 project_title: Python basics
-project_repo: lucydot/ChooChoo-2024
+project_repo: lucydot/ChooChoo-induction
 admins:
 - lucydot
 instructors:
 - lucydot
 students:
 - 
-web_address: https://lucydot.github.io/ChooChoo-2024
+web_address: https://lucydot.github.io/ChooChoo-induction
 
 # User options (may edit)
 questions: true
